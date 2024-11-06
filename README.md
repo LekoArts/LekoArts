@@ -6,4 +6,4 @@ Currently I'm working at [Clerk](https://clerk.com). Previously I worked at [Net
 
 I enjoy working on open source projects & making the web more inclusive through them. My [OSS code](https://github.com/LekoArts?tab=repositories&type=source) has been used by thousands of people & I regularly share educational content in the form of [posts](https://www.lekoarts.de/writing), [presentations](https://www.lekoarts.de/appearances), and [videos](https://www.lekoarts.de/appearances).
 
-You can also find me on Twitter at [@lekoarts_de](https://twitter.com/lekoarts_de) or on Mastodon at <a rel="me" href="https://mastodon.social/@lekoarts">mastodon.social/@lekoarts</a>.
+You can also find me on Bluesky at [@lekoarts.de](https://bsky.app/profile/lekoarts.de) or on Mastodon at <a rel="me" href="https://mastodon.social/@lekoarts">mastodon.social/@lekoarts</a>.
